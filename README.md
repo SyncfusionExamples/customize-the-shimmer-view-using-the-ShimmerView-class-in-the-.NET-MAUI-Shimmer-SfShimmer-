@@ -1,7 +1,7 @@
 # Customize the Shimmer using the ShimmerView Property in the .NET MAUI Shimmer (SfShimmer)
 This repository contains a sample of how to customize the shimmer using the ShimmerView property in the [.NET MAUI Shimmer (SfShimmer)](https://help.syncfusion.com/maui/shimmer/getting-started) 
 
-# Syncfusion controls
+## Syncfusion controls
 
 This project used the following Syncfusion control(s):
 * [SfShimmer](https://www.syncfusion.com/maui-controls/maui-shimmer)
